@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "659643572325",
+    "project_id": "multivendorapp-9a087",
+    "storage_bucket": "multivendorapp-9a087.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659643572325:android:772d244c0ddc32cfbaa68c",
+        "android_client_info": {
+          "package_name": "com.example.mutli_vendor_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659643572325-nju16u8qm214astvqie5eo0nkr9vk2pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANQzLTUlrGW3LpjrN8JJFb0Yia6VxiAsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659643572325-nju16u8qm214astvqie5eo0nkr9vk2pj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "659643572325-clrqkhce7jtcdn6j668mgra3q4fb18av.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mutliVendorApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659643572325:android:b8ed20f81009e667baa68c",
+        "android_client_info": {
+          "package_name": "com.example.mutli_vendor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659643572325-nju16u8qm214astvqie5eo0nkr9vk2pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANQzLTUlrGW3LpjrN8JJFb0Yia6VxiAsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659643572325-nju16u8qm214astvqie5eo0nkr9vk2pj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "659643572325-clrqkhce7jtcdn6j668mgra3q4fb18av.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mutliVendorApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
